@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6170625453053378481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6170625453053378494}
+  m_Layer: 0
+  m_Name: Jurang Puzzle container
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6170625453053378494
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6170625453053378481}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 28.749142, y: -33.159386, z: -20.605183}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 1241170305723230874}
+  - {fileID: 3569836780500959265}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &5063993850272648413
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6170625453053378494}
+    m_Modifications:
+    - target: {fileID: 4732623670278798527, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879235317605519, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879235356604288, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879235470434805, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879235731853598, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879235937333307, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879235938173314, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236111328838, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_Name
+      value: Puzzle jurang atas V2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236111328839, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236111328839, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -11.712219
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236111328839, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.134882
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236111328839, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.6907749
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236111328839, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236111328839, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236111328839, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236111328839, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236111328839, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236111328839, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236111328839, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236344862787, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236344862788, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.03
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236520607091, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236594517118, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236650260707, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879236878163962, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879237159200182, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6304879237306800807, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6977985745198972496, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+--- !u!4 &1241170305723230874 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6304879236111328839, guid: 8f0ab76c14c96104883845d0cc5fbfaa, type: 3}
+  m_PrefabInstance: {fileID: 5063993850272648413}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6135584860102474812
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 6170625453053378494}
+    m_Modifications:
+    - target: {fileID: 7255125618244615196, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+      propertyPath: m_Name
+      value: Puzzle jurang bawah V2
+      objectReference: {fileID: 0}
+    - target: {fileID: 7255125618244615197, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7255125618244615197, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 5.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 7255125618244615197, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.97
+      objectReference: {fileID: 0}
+    - target: {fileID: 7255125618244615197, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -31.432562
+      objectReference: {fileID: 0}
+    - target: {fileID: 7255125618244615197, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7255125618244615197, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7255125618244615197, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7255125618244615197, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7255125618244615197, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7255125618244615197, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7255125618244615197, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+--- !u!4 &3569836780500959265 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 7255125618244615197, guid: 1d37e531db3e8af48a124cb13c52631b, type: 3}
+  m_PrefabInstance: {fileID: 6135584860102474812}
+  m_PrefabAsset: {fileID: 0}
