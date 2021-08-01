@@ -24,6 +24,8 @@ public class PlayerShadowBehaviour : MonoBehaviour
     {
         Move();
         Height();
+
+        GetComponent<SpriteRenderer>().sortingOrder = Mathf.RoundToInt(transform.position.y * 100f) * -1;
     }
 
     private void Move()
